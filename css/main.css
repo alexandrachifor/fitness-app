@@ -3,9 +3,29 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
 
-
+.navbar {
+  background-color: #33CCCC;
+}
 
 .activity-form-header {
   color: purple;
+}
+.padded-top {
+  padding-top: 140px;
+}
+.btn-default {
+  margin-bottom: 220px;
+}
+.form-control {
+  font-style: italic;
+}
+.navbar-brand {
+  font-size: 23px;
+  font-weight: 500;
+  color: #000066;
 }
