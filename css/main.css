@@ -23,9 +23,16 @@ body {
 }
 .form-control {
   font-style: italic;
+  width: 60%;
 }
 .navbar-brand {
   font-size: 23px;
   font-weight: 500;
   color: #000066;
+}
+.col-md-offset-3 {
+  margin-left: 33%;
+}
+p {
+  text-align: right;
 }
